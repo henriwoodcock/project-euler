@@ -18,4 +18,14 @@ while(True):
 ```
 To sum the even numbers the solution is similar to the previous one and modulus could be found.
 
-Another method could be to notice that odd+odd=even and even+odd=odd. This gives the sequence to be: odd, even, odd, odd, even, odd, odd, even, odd, odd, even, ...
+Another method could be to notice that
+```
+odd+odd=even
+```
+and
+```even+odd=odd
+```
+This gives the sequence to be:
+```
+odd, even, odd, odd, even, odd, odd, even, odd, odd, even, ...
+```
