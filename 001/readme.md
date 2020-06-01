@@ -6,7 +6,7 @@
 > Find the sum of all the multiples of 3 or 5 below 1000.
 
 ## Solution
- Loop through all natural numbers below 1000, check if it a multiple of 3 or 5 and finally add to a sum tally.
+Loop through all natural numbers below 1000, check if it a multiple of 3 or 5 and finally add to a sum tally.
 
 To find a multiple of 3 or 5 the modulus can be found.
 
