@@ -29,3 +29,6 @@ This gives the sequence to be:
 ```
 odd, even, odd, odd, even, odd, odd, even, odd, odd, even, ...
 ```
+
+## Code
+- [python](002.py)
