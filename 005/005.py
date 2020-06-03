@@ -13,13 +13,6 @@ def check_if_divisible(number):
             return False
     return True
 
-#loop from 0 and increase by 20s each time
-number=2520
-while(True):
-    if check_if_divisible(number):
-        break
-    else:
-        number+=2520
 if __name__ == '__main__':
     #start at 2520 as must be a multiple of 2520
     number=2520
