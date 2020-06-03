@@ -13,3 +13,6 @@ If the greatest common denominator of 1,2,3,...,10 is 2520 then the greatest com
 Only need to check if the number if divisible by 11,12,...,19 because 2520 goes into 20 and also any number divisible by 11,12,...,19 is divisible by 1,2,...,9.
 
 _There is also definitely something in here to do with primes, need to come back to it._
+
+## Code
+- [python](005.py)
