@@ -16,3 +16,4 @@ _There is also definitely something in here to do with primes, need to come back
 
 ## Code
 - [python](005.py)
+- [c++](005.cpp)
