@@ -32,3 +32,4 @@ odd, even, odd, odd, even, odd, odd, even, odd, odd, even, ...
 
 ## Code
 - [python](002.py)
+- [c++](002.cpp)
