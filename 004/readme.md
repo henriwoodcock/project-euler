@@ -18,3 +18,4 @@ Reversing a number:
 
 ## Code
 - [python](004.py)
+- [c++](004.cpp)
