@@ -10,3 +10,4 @@ My code to the [Project Euler](https://projecteuler.net) computational problems.
 | 004       | Yes     | Yes   |
 | 005       | Yes     | Yes   |
 | 006       | Yes     | Yes   |
+| 007       | Yes     | Yes   |
