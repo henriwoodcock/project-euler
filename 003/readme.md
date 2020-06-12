@@ -18,3 +18,4 @@ So a solution to this problem would be to keep factoring out the smallest factor
 
 ## Code
 - [python](003.py)
+- [c++](003.cpp)
