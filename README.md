@@ -16,4 +16,4 @@ My code to the [Project Euler](https://projecteuler.net) computational problems.
 | 010       | Yes     | No    |
 | 011       | Yes     | No    |
 | 012       | Yes     | No    |
-| 025       | Yes     | No    |
+| 025       | Yes     | Yes   |
