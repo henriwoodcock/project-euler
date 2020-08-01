@@ -8,16 +8,18 @@ There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 Find the product abc.
 
 '''
-stop_loop = False
-for i in range(1,999):
-    if stop_loop:
-        break
-    for j in range(i,999):
-        if stop_loop: break
-        for k in range(j,999):
-            if i*i + j*j == k*k and i+j+k == 1000:
-                stop_loop = True
-                break
 
-print(i,j,k)
-print(i*j*k)
+if __name__ == '__main_':
+    stop_loop = False
+    for i in range(1,999):
+        if stop_loop:
+            break
+        for j in range(i,999):
+            if stop_loop: break
+            for k in range(j,999):
+                if i*i + j*j == k*k and i+j+k == 1000:
+                    stop_loop = True
+                    break
+
+    print(i,j,k)
+    print(i*j*k)
