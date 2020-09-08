@@ -1,5 +1,5 @@
 # project-euler
-My code to the [Project Euler](https://projecteuler.net) computational problems.
+My code to the [Project Euler](https://projecteuler.net) computational problems. This is an ongoing project for when I have time.
 
 ## Solutions
 | Problem 	| Python 	| C++ 	|
