@@ -9,3 +9,4 @@ Using a prime sieve to generate the primes. This is fine for two million however
 
 ## Code
 - [python](010.py)
+- [cpp](010.cpp)
