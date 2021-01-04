@@ -9,25 +9,26 @@ Find the product abc.
 */
 #include <iostream>
 
-int main() {
-  bool stop_loop = false;
-  int product;
-  for(int i=1; i<999; i++) {
-    if(stop_loop) {
-      break;
-    }
-    for(int j=1; j<999; j++) {
-      if(stop_loop) {
-        break;
-      }
-      for(int k=1; k<999; k++) {
-        if( (i*i + j*j == k*k) && (i+k+j) == 1000) {
-          stop_loop = true;
-          break;
-        }
+long long find_triplet() {
+  int z;
+  for (int x = 1; x < 1000; ++x) {
+    for (int y = 1; y < x; ++y) {
+      z = 1000 - x - y;
+
+      if (x*x + y*y == z*z) {
+        return x*y*z;
       }
     }
   }
-  std::cout << product << std::endl;
+  return 0;
+}
+
+int main() {
+  long long solution;
+
+  solution = find_triplet();
+
+  std::cout << solution << std::endl;
+
   return 0;
 }
