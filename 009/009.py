@@ -9,17 +9,15 @@ Find the product abc.
 
 '''
 
-if __name__ == '__main_':
-    stop_loop = False
-    for i in range(1,999):
-        if stop_loop:
-            break
-        for j in range(i,999):
-            if stop_loop: break
-            for k in range(j,999):
-                if i*i + j*j == k*k and i+j+k == 1000:
-                    stop_loop = True
-                    break
+def find_triplet():
+  for x in range(1, 1000):
+    for y in range(1, x):
+      z = 1000 - x - y
 
-    print(i,j,k)
-    print(i*j*k)
+      if x*x + y*y == z*z:
+        return (x,y,z)
+
+if __name__ == '__main__':
+  x,y,z = find_triplet()
+  print(x*y*z)
+
