@@ -12,7 +12,7 @@ My code to the [Project Euler](https://projecteuler.net) computational problems.
 | [006](006)       | Yes     | Yes   |
 | [007](007)       | Yes     | Yes   |
 | [008](008)       | Yes     | Yes    |
-| [009](009)       | No      | No    |
+| [009](009)       | Yes      | Yes    |
 | [010](010)       | Yes     | Yes    |
 | [011](011)       | Yes     | Yes    |
 | [012](012)       | Yes     | Yes    |

@@ -102,4 +102,6 @@ int main(void) {
   }
 
   std::cout << triangle_number << std::endl;
+
+  return 0;
 }
