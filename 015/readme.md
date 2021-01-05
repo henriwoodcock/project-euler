@@ -25,3 +25,7 @@ is equal (a+b) C a (the binomial coeffcient).
 Because of the size of numbers the binomial coefficient is calculated with the
 "Multiplicative formula". Info found at
 https://en.wikipedia.org/wiki/Binomial_coefficient#Multiplicative_formula.
+
+## Code
+
+- [cpp](015.cpp)
